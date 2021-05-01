@@ -1,4 +1,4 @@
-# Hospital Management System (REST API)
+# REST API for Hospital Management System
 
 ## For running the application: 
 
